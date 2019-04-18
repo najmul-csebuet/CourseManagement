@@ -9,23 +9,11 @@ HELP.md
 *.iws
 *.iml
 *.ipr
-/out/
+out/
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
+*/.idea
+*/*.iws
+*/*.iml
+*/*.ipr
+*/out/
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
-.vscode/
